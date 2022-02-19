@@ -1,5 +1,5 @@
 # Hi There! I'm Shadox 👋
-![profile count](https://komarev.com/ghpvc/?username=yxgiz.docx&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ShadoxXD&color=red)&nbsp;
 [![GitHub ShadoxXD](https://img.shields.io/github/followers/ShadoxXD?label=follow&style=social)](https://github.com/ShadoxXD)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://instagram.com/yxgiz.docx%22%3E<img src="https://img.shields.io/badge/@yxgiz.docx-E4405F?style=flat&logo=Instagram&logoColor=black%22/%3E</a> &nbsp;
